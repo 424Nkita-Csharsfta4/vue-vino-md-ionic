@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "vino-md",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

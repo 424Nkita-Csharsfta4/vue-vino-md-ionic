@@ -1,0 +1,8 @@
+{
+  "name": "vino-md",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "d59ab0b7"
+}
